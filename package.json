@@ -1,6 +1,7 @@
 {
   "name": "just-the-docs",
   "version": "0.3.3",
+  "prevate" : "true",
   "description": "A modern Jekyll theme for documentation",
   "repository": "pmarsceill/just-the-docs",
   "license": "MIT",
